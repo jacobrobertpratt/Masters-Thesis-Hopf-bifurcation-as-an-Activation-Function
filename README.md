@@ -1,0 +1,1 @@
+# Hopf-bifurcation-as-an-activation-function-for-complex-recurrent-neural-networks-A-feasibility-study
